@@ -3,7 +3,7 @@ const urlsToCache = [
     '/newbee/',
     '/newbee/index.html',
     '/newbee/manifest.json',
-    'img src="https://i.ibb.co/trrZh9y/maskable-icon-x128.png',
+    'https://i.ibb.co/trrZh9y/maskable-icon-x128.png',
     'https://i.ibb.co/7dJJdggX/maskable-icon-x512.png',
 ];
 
